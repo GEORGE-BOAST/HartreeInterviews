@@ -15,8 +15,8 @@ This take-home assessment is designed to gauge your proficiency in Python, SQL, 
 ## Instructions
 
 1. Fork this repository to your GitHub account.
-2. Clone the forked repository and navigate to the directory.
-3. Answer the questions listed below in the Jupyter Notebook under the `.solutions` directory.
+2. Clone the forked repository and create a `.solutions` directory.
+3. Answer the questions listed below in a Jupyter Notebook under the `.solutions` directory.
 4. Ensure that all code is clean, well-commented, and accompanied by explanations of your approach and reasoning.
 5. Each question should be answered in a separate Jupyter Notebook.
 4. Push the completed Notebook back to your GitHub repository.
